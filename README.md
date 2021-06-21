@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AspectOfTheCat
 - 👀 I’m interested in software development and artifical intelligence 
-- 🌱 I’m currently learning Python and Haxe
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on nothing at the moment
 
 <!---
